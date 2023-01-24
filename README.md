@@ -1,9 +1,11 @@
 # Projeto-Individual-M4
 
 ⇨ Existem outras entidades além dessas três?
+
 Sim
 
 ⇨ Quais são os principais campos e tipos?
+
 Cod_Aluno, Cod_Turma, Cod_Professor, Cod_Curso
 
 ⇨ Como essas entidades estão relacionadas?
